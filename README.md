@@ -18,11 +18,10 @@ A modern and responsive **Landing Page** built using **HTML5** and **CSS3**. Thi
 
 ## 📸 Screenshots
 
-> Add screenshots of your project inside an `images` folder and update the paths below.
-
 ```
 images/home.png.png
 images/contact_us.png.png
+images/feedback.png.png
 ```
 
 ## 📁 Project Structure
