@@ -31,21 +31,21 @@ A modern and responsive **Landing Page** built using **HTML5** and **CSS3**. Thi
 
 ## 📁 Project Structure
 
-
+...
 Landing-Page/
 │── index.html
 │── style.css
 │── images/
 │── README.md
-
+...
 
 ## 💻 Getting Started
 
 1. Clone the repository
 
-```bash
+bash
 git clone https://github.com/anshika2410-hub/Landing-Page.git
-```
+
 
 2. Open the project folder.
 
