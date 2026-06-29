@@ -33,10 +33,13 @@ A modern and responsive **Landing Page** built using **HTML5** and **CSS3**. Thi
 
 ```text
 Landing-Page/
-│── index.html
-│── style.css
-│── images/
-│── README.md
+├── images/
+│   ├── home.png
+│   ├── contact_us.png
+│   └── feedback.png
+├── index.html
+├── style.css
+└── README.md
 ```
 
 ## 💻 Getting Started
