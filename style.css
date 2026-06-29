@@ -53,7 +53,7 @@ nav ul li a:hover {
 
 /* Hero section styles */
 .hero {
-    background: url('https://img.lovepik.com/background/20211020/large/lovepik-the-background-of-internet-cloud-service-image_400077884.jpg') no-repeat center center/cover;
+    background: url('images/hero-bg.jpg') center center/cover no-repeat;
     color: white;
     text-align: center;
     padding: 100px 20px;
