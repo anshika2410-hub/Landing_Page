@@ -19,9 +19,14 @@ A modern and responsive **Landing Page** built using **HTML5** and **CSS3**. Thi
 ## 📸 Screenshots
 
 ```
-images/home.png.png
-images/contact_us.png.png
-images/feedback.png.png
+### 🏠 Home Page
+![Home Page](images/home.png)
+
+### 📞 Contact Us
+![Contact Us](images/contact_us.png)
+
+### 💬 Feedback
+![Feedback](images/feedback.png)
 ```
 
 ## 📁 Project Structure
