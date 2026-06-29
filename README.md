@@ -2,6 +2,12 @@
 
 A modern and responsive **Landing Page** built using **HTML5** and **CSS3**. This project focuses on creating an attractive user interface with a clean layout, responsive design, and smooth user experience across different devices.
 
+## 🌐 Live Demo
+
+🔗 https://anshika2410-hub.github.io/Landing_Page/
+
+---
+
 ## 🚀 Features
 
 * 📱 Fully Responsive Design
